@@ -11,5 +11,21 @@ Lo primero que debemos hacer es un git init (para ello dbeemos estar parados en 
 git add -A (pide que agregue todos los archivos de la carpeta como parte del repositorio
 git status, para saber los que se agregaron 
 git comit -m "comentario" (para sacar versiones)
+git log = muestra todos los commit
+
+
+git config --global
+git push -u origin master
+
 
 Slack? app para el celular
+
+
+
+1) git init
+2) lo vamos a usar siempre::: git add -A
+3) git status
+4) identificar usuario y nombre
+5) lo usaremos::::git commit -m "version1"
+6) git remote add
+7) lo vamos a usar siempre git push -u origin master
