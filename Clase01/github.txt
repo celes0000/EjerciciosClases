@@ -1,0 +1,15 @@
+C:\windows\system32\cmd.exe
+
+
+para crear un repositorio vamos a
+
+ ejecutar un comando adentro de una carpeta que esta dentro de otra carpeta
+adentro de la carpeta de cada tp vamos a inicializar el repositorio.
+Lo primero que debemos hacer es un git init (para ello dbeemos estar parados en la carpeta donde queremos crear el respoitorio
+
+
+git add -A (pide que agregue todos los archivos de la carpeta como parte del repositorio
+git status, para saber los que se agregaron 
+git comit -m "comentario" (para sacar versiones)
+
+Slack? app para el celular

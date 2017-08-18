@@ -1,0 +1,21 @@
+pedir al usuario 10 numeros
+sacar positivos
+negativos
+
+
+for tiene tres espacios separados por punto y coma
+
+incicializa una variable, preg si es menor a un valor y en el tercero lo incrementa
+for ( se ejec 1 vez  ; cada vez que el for decide si da una vuelta o no ; se ejec antes de dar otra vuelta)   ;
+{
+pedimos el nro al usuario, 
+verificamos si es positivo 
+ver si es negativo
+
+con una variable se puede ver cuales son negativos
+
+
+
+PROM NEGATIVOS
+PROM POSITIVOS
+
